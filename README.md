@@ -8,8 +8,7 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhy-ani.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyani-soni)
-
-<sub>Reach me at <a href="mailto:dhyanisoni05@gmail.com">dhyanisoni05@gmail.com</a></sub>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyanisoni05@gmail.com)
 
 </div>
 
@@ -89,7 +88,7 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhy-ani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhy-ani&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhy-ani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
