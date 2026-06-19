@@ -13,7 +13,7 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 ---
 
-## about me
+## About me
 
 - Building a **multi-step AI validation agent** on AWS Bedrock @ TCS — Lambda, API Gateway, S3, DynamoDB, Terraform
 - **Break Through Tech AI Fellow** at Cornell Tech, selected from 4,000+ applicants
@@ -22,23 +22,23 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 ---
 
-## featured projects
+## Featured projects
 
-### ai & systems
+### AI & systems
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Nexus**](https://github.com/dhy-ani/nexus) | LinkedIn-style full-stack SPA with Flask REST API, AI outreach guidance, 96% backend coverage, and CI/CD on Render | React · Flask · PostgreSQL · Docker |
 | [**AgentWeave**](https://github.com/dhy-ani/AgentWeave) | AI clothing recommendation tool with swipe UI — visual search via YOLOv5, CLIP embeddings, and FAISS vector search | Python · YOLOv5 · CLIP · FAISS · React · Firebase |
 
-### hackathon wins
+### Hackathon wins
 
 | Project | Award | Description | Stack |
 |--------|-------|-------------|-------|
 | [**SenseLense**](https://github.com/dhy-ani/senselense) | 🏆 Best AI Analytics — HackHers (ADP Challenge) | Real-time multimodal sentiment analysis for sales calls | Presage · ElevenLabs · Gemini AI |
 | [**StockSense AI**](https://github.com/dhy-ani/stocksense-ai) | Hackathon project | Chrome extension that extracts stock claims from financial articles and verifies them against SEC filings | Claude API · FastAPI · Python |
 
-### research & tools
+### Research & tools
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -47,7 +47,7 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 ---
 
-## tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,5 +62,5 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 ---
 
 <div align="center">
-<sub>reach me at <a href="mailto:dasdhyanisoni@gmail.com">dasdhyanisoni@gmail.com</a></sub>
+<sub>Reach me at <a href="mailto:dasdhyanisoni@gmail.com">dasdhyanisoni@gmail.com</a></sub>
 </div>
