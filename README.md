@@ -9,6 +9,8 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhy-ani.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyani-soni)
 
+<sub>Reach me at <a href="mailto:dhyanisoni05@gmail.com">dhyanisoni05@gmail.com</a></sub>
+
 </div>
 
 ---
@@ -61,6 +63,3 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 ---
 
-<div align="center">
-<sub>Reach me at <a href="mailto:dasdhyanisoni@gmail.com">dasdhyanisoni@gmail.com</a></sub>
-</div>
