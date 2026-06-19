@@ -1,8 +1,8 @@
 <div align="center">
 
-# hi, i'm dhyani 👋
+# Hi, I'm Dhyani 👋
 
-**CS + AI @ NJIT · Honors College · GPA 3.62 · Graduating May 2027**
+**CS + AI @ NJIT · Honors College · Graduating May 2027**
 
 Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell Tech Break Through Tech AI Fellow
 
@@ -17,7 +17,7 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 - Building a **multi-step AI validation agent** on AWS Bedrock @ TCS — Lambda, API Gateway, S3, DynamoDB, Terraform
 - **Break Through Tech AI Fellow** at Cornell Tech, selected from 4,000+ applicants
-- **Research intern @ CNALab** — pose estimation for aquatic therapy rehabilitation, 35% keypoint detection improvement, 🥇 1st place at NJIT Honors Research Forum
+- **Research intern @ CNALab** — pose estimation for aquatic therapy rehabilitation, 🥇 1st place at NJIT Honors Research Forum
 - Interests: agentic AI, computer vision, full-stack systems
 
 ---
@@ -29,7 +29,6 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Nexus**](https://github.com/dhy-ani/nexus) | LinkedIn-style full-stack SPA with Flask REST API, AI outreach guidance, 96% backend coverage, and CI/CD on Render | React · Flask · PostgreSQL · Docker |
-| **TCS Validation Agent** | Multi-step AI agent on AWS Bedrock that validates stored procedure outputs against a 20-point checklist using serverless infra | AWS Bedrock · Lambda · DynamoDB · Terraform |
 | [**AgentWeave**](https://github.com/dhy-ani/AgentWeave) | AI clothing recommendation tool with swipe UI — visual search via YOLOv5, CLIP embeddings, and FAISS vector search | Python · YOLOv5 · CLIP · FAISS · React · Firebase |
 
 ### hackathon wins
@@ -43,7 +42,7 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **CNALab Rehab Tool** | Pose estimation for patient mobility tracking in aquatic therapy, 35% keypoint detection improvement | OpenCV · Python · MediaPipe |
+| **CNALab Rehab Tool** | Pose estimation for patient mobility tracking in aquatic therapy, 35% keypoint detection improvement | OpenCV · Python · DeepLabCut |
 | [**DermaTag**](https://github.com/dhy-ani/dermaTag) | Full-stack skin condition analyzer that classifies conditions from webcam images using a custom CNN and recommends skincare products | PyTorch · FastAPI · React |
 
 ---
