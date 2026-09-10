@@ -24,31 +24,6 @@ Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell 
 
 ---
 
-## Experience
-<div align="center">
-
-# Hi, I'm Dhyani 👋
-
-**CS + AI @ NJIT · Honors College · Graduating May 2027**
-
-Agentic AI Engineering Intern @ Tata Consultancy Services &nbsp;|&nbsp; Cornell Tech Break Through Tech AI Fellow
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhy-ani.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyani-soni)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyanisoni05@gmail.com)
-
-</div>
-
----
-
-## About me
-
-- Building a **multi-step AI validation agent** on AWS Bedrock @ TCS — Lambda, API Gateway, S3, DynamoDB, Terraform
-- **Break Through Tech AI Fellow** at Cornell Tech, selected from 4,000+ applicants
-- **Research intern @ CNALab** — pose estimation for aquatic therapy rehabilitation, 🥇 1st place at NJIT Honors Research Forum
-- Interests: agentic AI, computer vision, full-stack systems
-
----
 
 ## Experience
 
