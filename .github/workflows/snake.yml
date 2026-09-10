@@ -11,7 +11,8 @@ on:
 jobs:
   generate:
     permissions:
-      contents: write
+      contents: read
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake game from GitHub contribution grid
